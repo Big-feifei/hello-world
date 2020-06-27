@@ -1,2 +1,2 @@
 # hello-world
-ti is a test
+it is a test
